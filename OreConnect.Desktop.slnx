@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/OreConnect.Desktop/OreConnect.Desktop.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/OreConnect.Desktop.Tests/OreConnect.Desktop.Tests.csproj" />
+  </Folder>
+</Solution>

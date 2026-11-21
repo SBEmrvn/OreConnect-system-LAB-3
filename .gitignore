@@ -1,0 +1,7 @@
+bin/
+obj/
+.vs/
+*.user
+TestResults/
+# local database password
+src/OreConnect.Desktop/appsettings.json
